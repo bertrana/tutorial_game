@@ -20,4 +20,4 @@ texture = ExtResource( 1 )
 centered = false
 
 [node name="Hero" parent="." instance=ExtResource( 3 )]
-position = Vector2( 129, 96 )
+position = Vector2( 109, 93 )
